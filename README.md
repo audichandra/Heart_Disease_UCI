@@ -1,7 +1,7 @@
 # Table of Contents 
 1. [Installation](https://github.com/audichandra/Heart_Disease_UCI#Installation)
 2. [Project Motivation](https://github.com/audichandra/Heart_Disease_UCI#Project-Motivation)
-3. [File Description](https://github.com/audichandra/Heart_Disease_UCI#File-Description)
+3. [File Descriptions](https://github.com/audichandra/Heart_Disease_UCI#File-Descriptions)
 4. [Results](https://github.com/audichandra/Heart_Disease_UCI#Results)
 5. [Licensing, Authors, and Acknowledgements](https://github.com/audichandra/Heart_Disease_UCI#Licensing)
 
@@ -19,6 +19,14 @@ The author drew some personal event that happened in the author personal life wh
 4. The through heart exam result such as ECG, Fluoroscopy and Thallium
 5. The most important features in predicting either a person has heart disease or not
 
+# File Descriptions
+Files:
+
+1. .ipynb File containing all of the technical process 
+2. readme document
+3. .csv file regarding the heart disease database 
+4. Image folder contained all of the necessary findings images 
+5. python file in importing formulas 
 
 # Results 
 
